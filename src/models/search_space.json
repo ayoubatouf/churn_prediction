@@ -1,0 +1,22 @@
+{
+    "base_estimator": {
+        "type": "DecisionTreeClassifier",
+        "max_depth": 2
+    },
+    "param_space": {
+        "n_estimators": {
+            "type": "Integer",
+            "min": 100,
+            "max": 500
+        },
+        "learning_rate": {
+            "type": "Real",
+            "min": 0.01,
+            "max": 0.2,
+            "distribution": "uniform"
+        }
+    },
+    "n_iter": 200,
+    "cv": 5,
+    "random_state": 21
+}

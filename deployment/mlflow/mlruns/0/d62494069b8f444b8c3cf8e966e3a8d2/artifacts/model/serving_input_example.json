@@ -1,0 +1,30 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Contract",
+      "PaymentMethod_Electronic check",
+      "InternetService_Fiber optic",
+      "TotalCharges",
+      "TechSupport",
+      "PaperlessBilling",
+      "Dependents",
+      "SeniorCitizen",
+      "PhoneService",
+      "gender_Male"
+    ],
+    "data": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        992.7,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ]
+  }
+}

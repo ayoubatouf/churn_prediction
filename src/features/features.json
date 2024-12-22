@@ -1,0 +1,14 @@
+{
+    "features": [
+        "Contract",
+        "PaymentMethod_Electronic check",
+        "InternetService_Fiber optic",
+        "TotalCharges",
+        "TechSupport",
+        "PaperlessBilling",
+        "Dependents",
+        "SeniorCitizen",
+        "PhoneService",
+        "gender_Male"
+    ]
+}

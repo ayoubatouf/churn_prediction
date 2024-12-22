@@ -1,0 +1,11 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+7590-VHVEG,Female,0,Yes,No,12,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,29.85,29.85
+5575-GNVDE,Male,1,No,Yes,34,No,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Mailed check,56.95,1889.5
+3668-QPYBK,Female,0,Yes,No,5,Yes,No phone service,No,No,No,No,No,Yes,No,Two year,Yes,Bank transfer (automatic),53.85,108.15
+4801-JZAZL,Male,1,No,Yes,20,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),63.1,346.45
+8361-LTMKD,Female,0,Yes,No,15,No,No,Fiber optic,No,No,No,No,Yes,No,One year,Yes,Electronic check,44.2,306.6
+3186-AJIEK,Male,0,No,Yes,3,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Mailed check,78.7,6844.5
+1111-XXXXXX,Female,1,Yes,No,6,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),60.5,400.5
+2222-YYYYYY,Male,1,No,Yes,9,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),50.0,300.0
+3333-ZZZZZZ,Female,0,Yes,No,10,No,No,No,Yes,No,No,No,Yes,No,Two year,Yes,Electronic check,40.0,200.0
+4444-AAAAAA,Male,0,No,Yes,2,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,55.0,150.0

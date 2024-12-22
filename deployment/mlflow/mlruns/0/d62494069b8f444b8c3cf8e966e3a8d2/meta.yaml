@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ayoub/Desktop/churn_prediction/deployment/mlflow/mlruns/0/d62494069b8f444b8c3cf8e966e3a8d2/artifacts
+end_time: 1730568419572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d62494069b8f444b8c3cf8e966e3a8d2
+run_name: brawny-auk-272
+run_uuid: d62494069b8f444b8c3cf8e966e3a8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730568386203
+status: 3
+tags: []
+user_id: ayoub

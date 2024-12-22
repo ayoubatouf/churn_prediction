@@ -1,0 +1,48 @@
+{
+    "cleaning": {
+        "drop_columns": ["customerID", "tenure", "MonthlyCharges"],
+        "replace_values": {
+            "No internet service": "No",
+            "No phone service": "No"
+        }
+    },
+    "encoding": {
+        "binary_columns": [
+            "Partner",
+            "Dependents",
+            "PhoneService",
+            "MultipleLines",
+            "OnlineSecurity",
+            "OnlineBackup",
+            "DeviceProtection",
+            "TechSupport",
+            "StreamingTV",
+            "StreamingMovies",
+            "PaperlessBilling"
+        ],
+        "contract_mapping": {
+            "Month-to-month": 1,
+            "One year": 2,
+            "Two year": 3
+        },
+        "target_column": "Churn",
+        "churn_mapping": {
+            "Yes": 1,
+            "No": 0
+        }
+    },
+    "balancing": {
+        "target": "Churn",
+        "n_sample": 1869,
+        "random_seed": 21
+    },
+    "splitting": {
+        "target": "Churn",
+        "test_size": 0.3,
+        "random_seed": 21
+    },
+    "scaling": {
+        "numerical_cols": ["TotalCharges"],
+        "save_scaler": false
+    }
+}
